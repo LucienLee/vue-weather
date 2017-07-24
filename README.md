@@ -1,6 +1,6 @@
-# vue-weather
+# Vue Weather (Work in Process!)
 
-> A Vue.js project
+> A simple weather app that illustrate how to build an app with Vue.js
 
 ## Build Setup
 
@@ -25,3 +25,7 @@ npm test
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+## Feature
+
+- Fetch weather data from [Yahoo Weather API](https://developer.yahoo.com/weather/)
